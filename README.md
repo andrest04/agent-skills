@@ -1,6 +1,6 @@
-# skills
+# agent-skills
 
-[![skills.sh](https://skills.sh/b/andrest04/skills)](https://skills.sh/andrest04/skills)
+[![skills.sh](https://skills.sh/b/andrest04/agent-skills)](https://skills.sh/andrest04/agent-skills)
 
 My [Agent Skills](https://agentskills.io) collection. Install any of them, or all, with the [`skills` CLI](https://github.com/vercel-labs/skills).
 
@@ -8,10 +8,10 @@ My [Agent Skills](https://agentskills.io) collection. Install any of them, or al
 
 ```bash
 # All skills
-npx skills add andrest04/skills
+npx skills add andrest04/agent-skills
 
 # One specific skill
-npx skills add andrest04/skills --skill design-patterns
+npx skills add andrest04/agent-skills --skill design-patterns
 ```
 
 ## Skills
